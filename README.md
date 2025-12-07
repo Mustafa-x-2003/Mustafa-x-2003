@@ -8,13 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-- Passionate **Front-End Developer** building modern, responsive, and user-friendly web interfaces.  
-- Currently learning and growing to become a **Full-Stack Developer (MERN)**.  
-- Committed to clean code, best practices, and continuous improvement.  
-
----
-
 ## 🛠️ My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -32,8 +25,4 @@
 
 ---
 
-## 🎯 My Goals
-- Become a **Full-Stack MERN Developer**.  
-- Build complete real-world projects.  
-- Deliver high-quality work and grow professionally.  
-- Keep learning and improving every day.
+
