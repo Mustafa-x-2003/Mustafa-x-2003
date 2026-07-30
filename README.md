@@ -1,19 +1,14 @@
 <div align="center">
 
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙪𝙨𝙩𝙖𝙛𝙖 𝙎𝙖𝙢𝙞
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:111827,100:2563EB&text=Mustafa%20Sami&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer&descSize=22&descAlignY=60"/>
 
-</div>
+<br/>
 
----
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Architecture" />
 
+<br/><br/>
 
-<div align="center">
-
-# Passionate developer<br> always learning and evolving fast.
-
-</div>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="380"/>
 
 
 
@@ -23,6 +18,112 @@
 [![](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mustafa-sami-780a19332)
 [![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Mustafa3441158)
  <br>
+</div>
+
+
+---
+
+#  About Me
+
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+I'm **Mustafa Sami**, a Full-Stack JavaScript Developer focused on building modern, scalable, and user-friendly web applications.
+
+I specialize in the **MERN Stack** and enjoy creating clean interfaces, efficient APIs, and well-structured applications.
+
+### What I Do
+
+- ⚛️ Build modern React applications
+- 🎨 Create responsive UI with Tailwind CSS, MUI & shadcn/ui
+- ⚙️ Develop REST APIs using Node.js & Express.js
+- 🗄️ Design and manage MongoDB databases
+- 🔐 Implement Authentication & Authorization
+- 🚀 Follow clean architecture and best practices
+
+
+<br clear="right"/>
+
+
+---
+
+
+# 🛠️ Tech Stack
+
+
+<div align="center">
+
+
+### 🎨 Frontend
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+<br>
+
+
+### 🎨 UI Libraries
+
+<br>
+
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+
+<br>
+
+
+### ⚙️ Backend
+
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+<br>
+
+
+### 🗄️ Database
+
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+
+<br>
+
+
+### 🧰 Tools
+
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+</div>
+
+
+
 </div>
 
 ---
