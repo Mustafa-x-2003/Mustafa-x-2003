@@ -23,7 +23,7 @@
 
 ---
 
-#  About Me
+# About Me
 
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -31,16 +31,51 @@
 
 I'm **Mustafa Sami**, a Full-Stack JavaScript Developer focused on building modern, scalable, and user-friendly web applications.
 
-I specialize in the **MERN Stack** and enjoy creating clean interfaces, efficient APIs, and well-structured applications.
+I specialize in the **MERN Stack** and enjoy creating clean user interfaces, efficient APIs, and well-structured applications.
+
 
 ### What I Do
 
-- ⚛️ Build modern React applications
-- 🎨 Create responsive UI with Tailwind CSS, MUI & shadcn/ui
-- ⚙️ Develop REST APIs using Node.js & Express.js
-- 🗄️ Design and manage MongoDB databases
-- 🔐 Implement Authentication & Authorization
-- 🚀 Follow clean architecture and best practices
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="vertical-align: -3px; margin-right: 2px;">
+Build modern React applications with responsive and reusable components
+</p>
+
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="22" style="vertical-align: -3px; margin-right: 2px;">
+Create modern UI experiences using Tailwind CSS, MUI & shadcn/ui
+</p>
+
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" style="vertical-align: -3px; margin-right: 2px;">
+Develop scalable REST APIs using Node.js & Express.js
+</p>
+
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="22" style="vertical-align: -3px; margin-right: 2px;">
+Design and manage MongoDB databases with Mongoose
+</p>
+
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" style="vertical-align: -3px; margin-right: 2px;">
+Build secure authentication & authorization systems using JWT and protected routes
+</p>
+
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="vertical-align: -3px; margin-right: 2px;">
+Write clean, maintainable code following best development practices
+</p>
+
+
+<br clear="right"/>
+
+---
 
 
 <br clear="right"/>
