@@ -190,13 +190,30 @@ Write clean, maintainable code following best development practices
 
 ---
 
-## 📊 My GitHub Stats
+<div align="center">
 
-![Mustafa Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustafa-x-2003&show_icons=true&count_private=true&theme=dracula)
+#  GitHub Stats
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-x-2003&layout=compact&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-x-2003&theme=dracula)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mustafa-x-2003&style=flat-square&color=orange)
+
+<br><br>
+
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-x-2003&theme=tokyo-night&hide_border=true" />
+
+
+<br><br>
+
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-x-2003&theme=tokyonight&hide_border=true" />
+
+
+<br><br>
+
+
+<img src="https://komarev.com/ghpvc/?username=Mustafa-x-2003&style=for-the-badge&color=blue" />
+
+
+</div>
