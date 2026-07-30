@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/-@mustafa_x_sami-%231DA1F2?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mustafa_x_sami)
 [![](https://img.shields.io/badge/-Email-%23EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:m.smai.office@gmail.com)
 [![](https://img.shields.io/badge/-TikTok-%23000000?style=flat-square&logo=tiktok&logoColor=ffffff)](https://www.tiktok.com/@x__mustafa_x?is_from_webapp=1&sender_device=pc)
-[![](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mustafa-sami-780a19332)
+[![](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mustafa-sami-dev)
 [![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Mustafa3441158)
  <br>
 </div>
