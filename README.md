@@ -75,89 +75,137 @@ Write clean, maintainable code following best development practices
 
 <br clear="right"/>
 
----
-
-
-<br clear="right"/>
-
 
 ---
-
-
-# 🛠️ Tech Stack
-
 
 <div align="center">
 
+# Tech Stack
 
-### 🎨 Frontend
 
-<br>
+<table>
+<tr>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<td align="center" width="50%">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
+### Frontend
 
 <br>
 
-
-### 🎨 UI Libraries
-
-<br>
-
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 <br>
 
+HTML5 • CSS3 • JavaScript  
+React.js • Tailwind CSS
 
-### ⚙️ Backend
+<br><br>
 
-<br>
+Modern UI development  
+with responsive and reusable components.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-<br>
+</td>
 
 
-### 🗄️ Database
+<td align="center" width="50%">
 
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
+### UI Libraries
 
 <br>
 
-
-### 🧰 Tools
+<img src="https://cdn.simpleicons.org/mui/007FFF" width="50"/>
+<img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="50"/>
 
 <br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Material UI • shadcn/ui
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Creating clean and accessible  
+modern UI experiences.
+
+</td>
 
 
-</div>
+</tr>
 
 
+<tr>
+
+
+<td align="center" width="50%">
+
+### Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br>
+
+Node.js • Express.js
+
+<br><br>
+
+Developing scalable REST APIs  
+and backend services.
+
+</td>
+
+
+<td align="center" width="50%">
+
+### Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+<img src="https://cdn.simpleicons.org/mongoose/880000" width="48"/>
+
+<br>
+
+MongoDB • Mongoose
+
+<br><br>
+
+Database design, modeling  
+and data management.
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center" colspan="2">
+
+### Tools & Workflow
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+<br>
+
+Git • GitHub • VS Code • Postman
+
+<br><br>
+
+Tools for efficient development  
+and collaboration.
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 </div>
 
@@ -181,10 +229,119 @@ Write clean, maintainable code following best development practices
 ---
 <div align="center">
 
-## Currently Learning
+# Currently Learning
 
 
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"/>
+
+<br>
+
+TypeScript
+
+<br>
+
+Writing safer and more  
+maintainable applications.
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50"/>
+
+<br>
+
+Next.js
+
+<br>
+
+Building modern  
+full-stack React applications.
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50"/>
+
+<br>
+
+Docker
+
+<br>
+
+Containerization and  
+deployment workflows.
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/>
+
+<br>
+
+PostgreSQL
+
+<br>
+
+Advanced relational  
+database concepts.
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="50"/>
+
+<br>
+
+Redis
+
+<br>
+
+Caching and performance  
+optimization.
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"/>
+
+<br>
+
+AWS
+
+<br>
+
+Cloud services and  
+deployment.
+
+</td>
+
+
+</tr>
+
+</table>
+
 
 </div>
 
